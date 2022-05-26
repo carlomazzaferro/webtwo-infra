@@ -1,4 +1,4 @@
-# DEPRECATED => moved to monorepo/packages/ui
+# DEPRECATED => moved to [monorepo/ops](https://github.com/Midas-Protocol/monorepo/tree/development/ops)
 
 # Web 2 Infra: AWS Resources
 
